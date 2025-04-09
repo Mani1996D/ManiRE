@@ -3,3 +3,4 @@ Y=a-b
 z=a*b
 q=a/b
 u=a%b
+t=a+b-c
